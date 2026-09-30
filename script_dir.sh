@@ -1,2 +1,2 @@
 #!/bin/bash
-echo mkdir -p {materia1,materia2}/uni{1..3}
+mkdir -p {materia1,materia2}/uni{1..3}
