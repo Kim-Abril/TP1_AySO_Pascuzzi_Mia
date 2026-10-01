@@ -294,3 +294,20 @@ ls -l
 cd repogit
 cd TP1_AySO_Pascuzzi_Mia/
 history -a
+cp ~/.bash_history ./Historial_comandos_Pascuzzi.txt
+ls -l
+git add .
+git status
+git commit -m "ADD: Historial de comandos de Pascuzzi"
+git push
+history
+exit
+cd repogit
+cd TP1_AySO_Pascuzzi_Mia/
+ls -l
+cat datos_usuario.txt 
+cat README.md 
+vim README.md 
+cat README.md 
+history -a
+history -a >> Historial_comandos_Pascuzzi.txt 
